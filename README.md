@@ -10,11 +10,11 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `[TODO: FILL ME IN TO GET CREDIT]`
-- [ ] **There is a "create entry" UI that prompts users to make their daily entry**
-- [ ] **New entries are saved in a database and then updated in the RecyclerView**
-- [ ] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
+- [X] **At least one health metric is tracked (based on user input)**
+  - Chosen metric(s): `Calorie tracker`
+- [X] **There is a "create entry" UI that prompts users to make their daily entry**
+- [X] **New entries are saved in a database and then updated in the RecyclerView**
+- [X] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
  
 The following **optional** features are implemented:
 
@@ -31,14 +31,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/amoghkapalli/BitFit/blob/master/Kapture%202023-03-27%20at%2021.32.52.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap](https://getkap.co/)
+
 
 ## Notes
 
