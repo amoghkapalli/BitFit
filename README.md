@@ -4,7 +4,7 @@ Submitted by: **Amogh Kapalli**
 
 **BitFit** is a health metrics app that allows users to track calorie consumed. 
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
